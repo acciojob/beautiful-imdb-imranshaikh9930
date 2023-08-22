@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+
+section{
+	display:flex;
+	justify-content:center;
+	align-item:center;
+	margin:auto 0px;
+}
+
+.moviePic{
+	height:50vh;
+	width:400px;
+	opacity:.7;
+
+	
+}
+.movieDetail{
+	width:400px;
+	position:relative;
+ 	top:30px;
+	text-align:center;
+	font-size:15px;
+}
